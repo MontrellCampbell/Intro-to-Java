@@ -1,0 +1,13 @@
+Nasiba Alrawi
+207 E 5th Normal Il
+Chase 1234567891234567
+2177217217
+stateFarm, 6/1/2018
+true 64.5 2
+
+john Smith
+345 W white rd normal il
+Busy 12345678912345
+5768934587
+GICO, 3/31/2018
+false
